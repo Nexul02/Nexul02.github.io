@@ -1,4 +1,4 @@
-### Bienvenidos a mi mente
+# Bienvenidos a mi mente
 
 Seré breve, soy Nexu, me gusta mucho programar. Y también entiendo que es muy importante crear contenido en la web, así que aquí es donde comienza esta aventura.
 
