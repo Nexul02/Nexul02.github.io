@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+### Bienvenidos a mi mente
 
-You can use the [editor on GitHub](https://github.com/Nexul02/Nexul02.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Seré breve, soy Nexu, me gusta mucho programar. Y también entiendo que es muy importante crear contenido en la web, así que aquí es donde comienza esta aventura.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Empecemos con algo básico, en estos momentos estoy enfocandome en django, porqué me gusta mucho python y con django en el backend se puede llegar a hacer mucho, paralelo a django, me gusta también mucho el ambito de la ciberseguridad, pero de esa rama hablaremos en otro momento.
 
-### Markdown
+## DJANGO: PRIMEROS PASOS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
