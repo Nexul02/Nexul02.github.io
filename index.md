@@ -1,10 +1,12 @@
 # Bienvenidos a mi mente
 
-Seré breve, soy Nexu, me gusta mucho programar. Y también entiendo que es muy importante crear contenido en la web, así que aquí es donde comienza esta aventura.
+Hola! soy Nexu, estoy escribiendo este blog porqué estoy aprendiendo a programar y me gustaría tener una traza sobre lo que voy aprendiendo y haciendo.
 
-Empecemos con algo básico, en estos momentos estoy enfocandome en django, porqué me gusta mucho python y con django en el backend se puede llegar a hacer mucho, paralelo a django, me gusta también mucho el ambito de la ciberseguridad, pero de esa rama hablaremos en otro momento.
+El objetivo es ir actualizando con el tiempo las entradas del blog, escribiendo y explicando codigo cada vez más avanzado en el lenguaje de python, por qué python?, porqué me gusta :)
 
-## DJANGO: PRIMEROS PASOS
+Esto será una guía práctica para codificar en python, crearemos pequeños modulos o aplicaciones que luego integraremos en una sola, empecemos por la primera pues...
+
+## LISTADOR DE RUTA
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
