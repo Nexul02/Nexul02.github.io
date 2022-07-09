@@ -6,9 +6,9 @@ El objetivo es ir actualizando con el tiempo las entradas del blog, escribiendo 
 
 Esto será una guía práctica para codificar en python, crearemos pequeños modulos o aplicaciones que luego integraremos en una sola, empecemos por la primera pues...
 
-## LISTADOR DE RUTA
+## 1. LISTADOR DE RUTA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Veamos una demostración de lo que hace y aprendamos a hacer magia en el mundo real.
 
 ```markdown
 Syntax highlighted code block
